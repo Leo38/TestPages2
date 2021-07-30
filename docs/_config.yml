@@ -3,5 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-remote_theme: volny/creative-theme-jekyll
+remote_theme: vvalchev/creative-theme-jekyll-new
+
 
