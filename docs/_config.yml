@@ -5,3 +5,4 @@ relative_links:
   enabled: true
   collections: true
 remote_theme: Leo38/creative-theme-jekyll-new
+markdown: kramdown
