@@ -1,8 +1,6 @@
-<!--docs:
-title: "Theming Guide"
-layout: post
--->
-
+---
+layout: page
+---
 
 # Button
 
