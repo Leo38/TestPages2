@@ -1,7 +1,8 @@
----
+<!--docs:
+title: "Theming Guide"
 layout: post
-title: Blogging Like a Hacker
----
+-->
+
 
 # Button
 
