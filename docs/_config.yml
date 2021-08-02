@@ -4,5 +4,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: minima
+remote_theme: Leo38/creative-theme-jekyll-new
 markdown: kramdown
