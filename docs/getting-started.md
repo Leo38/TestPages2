@@ -1,3 +1,9 @@
+---
+layout: detail
+title: Getting started
+description: Getting started description
+---
+
 # Getting started with Design System for Android
 
 ## Instructions
