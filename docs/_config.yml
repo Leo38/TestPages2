@@ -1,8 +1,7 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
-remote_theme: Leo38/creative-theme-jekyll-new
+remote_theme: Leo38/ods-jekyll-theme
 markdown: kramdown
