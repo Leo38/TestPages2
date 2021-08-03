@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: detail
+title: Button
+description: Button description
 ---
 
 # Button
